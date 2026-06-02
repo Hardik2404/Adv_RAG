@@ -14,7 +14,8 @@ By leveraging **LangChain**, **ChromaDB**, and **Groq's ultra-fast LLM API**, th
 
 ## ✨ Features
 
-![Gradio Chat UI](screenshot.png)
+<img width="1919" height="1079" alt="Screenshot 2026-06-02 111803" src="https://github.com/user-attachments/assets/22b6511d-c394-4e33-8531-0ccb0b19fbbd" />
+
 
 - **📂 Custom Data Ingestion:** Automatically load and parse raw `.txt` and `.txt.clean` files from a designated knowledge base using a fault-tolerant loader.
 - **🧠 Intelligent Text Chunking:** Splits large documents into overlapping chunks to preserve context and optimize retrieval.
