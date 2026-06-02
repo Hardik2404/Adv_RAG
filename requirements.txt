@@ -1,0 +1,14 @@
+tiktoken
+numpy
+python-dotenv
+openai
+langchain-openai
+huggingface-hub
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+scikit-learn
+plotly
+gradio
